@@ -1,5 +1,4 @@
-# IDS_Components
-Highlights various components of an Intrusion Detection System.
+
 # IDS_Components
 
 This repository outlines key components of an Intrusion Detection System (IDS) and provides practical recommendations for small businesses, particularly in the finance sector.
